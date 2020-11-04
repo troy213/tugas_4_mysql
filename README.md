@@ -9,6 +9,7 @@ CREATE DATABASE permainan;
 CREATE TABLE sepakbola;
 ```
 ### 3. Buatlah struktur table sepakbola sebagai berikut:
+![No.3](https://github.com/troy213/tugas_4_mysql/blob/main/Tugas%204%20MySQL%20No.3.jpg)
 ```
 CREATE TABLE sepakbola (id_pemain INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
 nama_pemain VARCHAR(100) NOT NULL,
